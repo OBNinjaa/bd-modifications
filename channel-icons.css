@@ -1,0 +1,65 @@
+[aria-label="Text"] svg {
+  display: none !important;
+}
+[aria-label="Text"]::after {
+  content: "📝";
+}
+[aria-label="Text (Limited)"] svg {
+  display: none !important;
+}
+[aria-label="Text (Limited)"]::after {
+  content: "📝";
+}
+[aria-label="Announcements"] svg {
+  display: none !important;
+}
+[aria-label="Announcements"]::after {
+  content: "📢";
+}
+[aria-label="Rules"] svg {
+  display: none !important;
+}
+[aria-label="Rules"]::after {
+  content: "📜";
+}
+[aria-label="Voice"] svg {
+  display: none !important;
+}
+[aria-label="Voice"]::after {
+  content: "🔊";
+}
+[aria-label="Voice (Limited)"] svg {
+  display: none !important;
+}
+[aria-label="Voice (Limited)"]::after {
+  content: "🔊";
+}
+[aria-label="Voice (Locked)"] svg {
+  display: none !important;
+}
+[aria-label="Voice (Locked)"]::after {
+  content: "🔒";
+}
+[aria-label="Forum"] svg {
+  display: none !important;
+}
+[aria-label="Forum"]::after {
+  content: "🗨️";
+}
+[aria-label="Stage (Limited)"] svg {
+  display: none !important;
+}
+[aria-label="Stage (Limited)"]::after {
+  content: "🗣️";
+}
+.modeMuted-2T4MDZ .icon-2W8DHg path {
+  display: none;
+}
+.modeMuted-2T4MDZ .iconContainer-21RCa3 {
+  position: relative;
+}
+.modeMuted-2T4MDZ .iconContainer-21RCa3:before {
+  content: "🔇";
+  position: absolute;
+  font-size: 20px;
+}
